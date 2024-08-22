@@ -38,5 +38,5 @@ The project includes:
 To view the project locally, clone the repository and open `index.html` in your browser. Ensure the assets are in the correct paths for proper rendering.
 
 ```sh
-git clone https://github.com/your-username/repository-name.git
-cd repository-name
+git clone https://github.com/waeldrwish/social-links-profile-main.git
+cd social-links-profile-main
